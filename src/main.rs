@@ -9,7 +9,7 @@ fn is_prime(number: u64) -> bool {
         }
         x += 1;
     }
-    return  true;
+    true
 }
 
 fn main() {
